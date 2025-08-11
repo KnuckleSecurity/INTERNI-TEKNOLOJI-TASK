@@ -90,7 +90,7 @@ Toplam benzersiz canlı host: 5
 ```
 
 ### ÖRNERK GÖRSEL
-![INTERNIADISCOVER](https://i.hizliresim.com/bz0r3z9.png)
+![INTERNIADISCOVER](https://raw.githubusercontent.com/KnuckleSecurity/INTERNI-TEKNOLOJI-TASK/refs/heads/main/miscs/Pasted%20image%2020250811085329.png?token=GHSAT0AAAAAADI7M24D6OQK4D3UKBW3DWNE2EZSDPQ)
 
 
 ---
@@ -152,7 +152,7 @@ python interniaMap.py 192.168.1.65 -p 80,443 -sV --cve --cve-max 3 --json scan.j
 
 ### ÖRNEK GÖRSEL
   
-![INTERNIAMAP](https://i.hizliresim.com/epp1lu5.png)
+![INTERNIAMAP](https://raw.githubusercontent.com/KnuckleSecurity/INTERNI-TEKNOLOJI-TASK/refs/heads/main/miscs/Pasted%20image%2020250811083558.png?token=GHSAT0AAAAAADI7M24CQMBXP635SIHFO6AI2EZSDFA)
 
 ---
 
