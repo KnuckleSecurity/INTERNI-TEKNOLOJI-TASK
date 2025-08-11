@@ -1,4 +1,4 @@
-# INTERNI TEKNOLOJI TASK
+# INTERNIA TEKNOLOJI TASK
 
 # TASK 1 -> interniaDiscover & interniaMap 
 
