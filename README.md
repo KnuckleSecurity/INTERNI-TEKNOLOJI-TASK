@@ -124,7 +124,7 @@ python interniaMap.py 192.168.1.65 --preset stealth
 - **Verbosity/Trace**: `--vv`, `--packet-trace`, `--live`, `--stats-every 2s`
 - **Evasion/Timing**: `-T0…-T5`, `--scan-delay`, `--max-rate`, `--min-rate`, `--spoof-mac`, `--src-ip`, `--iface`, `--fragment`, `--mtu`, `--proxies`, `--defeat-rst-ratelimit`
 - **Çıktı**: `--json out.json`, `--csv out.csv`
-	- **CVE eşleme (NVD)**: `--cve` (opsiyonel), `--cve-max 5`
+  - **CVE eşleme (NVD)**: `--cve` (opsiyonel), `--cve-max 5`
 
 ### CVE Eşleme Nasıl Çalışır?
 - `--cve` kullanıldığında, **tüm açık portlar** için servis/bannerdan **ürün** ve **versiyon** bilgisi toplanır (ör. `nginx 1.18.0`).
@@ -151,7 +151,7 @@ python interniaMap.py 192.168.1.65 -p 80,443 -sV --cve --cve-max 3 --json scan.j
 ```
 
 ### ÖRNEK GÖRSEL
-	
+  
 ![INTERNIAMAP](https://i.hizliresim.com/epp1lu5.png)
 
 ---
@@ -194,7 +194,6 @@ Bu araçları yalnızca **yetkili olduğunuz** sistem ve ağlarda kullanın. İz
 
 - Kılavuz: 2025-08-11
 - Scriptler: `interniaDiscover.py` ve `interniaMap.py` (kullanım örnekleri ve argüman isimleri bu sürüme göredir)
-
 
 
 
