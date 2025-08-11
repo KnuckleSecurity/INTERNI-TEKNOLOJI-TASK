@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Yeni Kuantum İşlemci Test Sonuçlarını Açıkladı",
+    "description": "Teknoloji firması, geliştirdiği yeni nesil kuantum işlemcisinin laboratuvar test sonuçlarını açıkladı. Cihaz, önceki modellere kıyasla %40 daha hızlı işlem kapasitesi ve %25 daha düşük enerji tüketimi sunuyor. Özellikle yapay zeka eğitimleri, bilimsel simülasyonlar ve karmaşık veri analizlerinde büyük performans artışı sağlayacağı öngörülüyor. Uzmanlar, bu gelişmenin endüstride yeni bir dönemi başlatabileceğini belirtiyor.",
+    "publishedAt": "2025-08-07T10:15:00Z"
+  },
+  {
+    "title": "Yapay Zeka ile Kod Üretiminde Büyük Sıçrama",
+    "description": "Araştırmacılar, yeni geliştirdikleri yapay zeka modelinin karmaşık yazılım projelerinin %60’ını insan müdahalesine gerek kalmadan tamamlayabildiğini duyurdu. Model, yalnızca kod üretmekle kalmıyor, aynı zamanda kodun optimizasyonunu ve hata kontrolünü de otomatik yapıyor. Bu sayede proje süreleri ciddi oranda kısalırken hata oranı da düşüyor. Teknolojinin, yazılım geliştirme süreçlerini kökten değiştireceği düşünülüyor.",
+    "publishedAt": "2025-08-06T14:30:00Z"
+  },
+  {
+    "title": "Veri Merkezi Enerji Tüketimini Yarıya İndiren Teknoloji",
+    "description": "Yeni nesil sıvı soğutma sistemi, veri merkezlerinde enerji tüketimini %50 oranında azaltmayı başardı. Sistem, mevcut altyapıya entegre edilebilecek şekilde tasarlandığı için kurulum süresi oldukça kısa. Enerji tasarrufunun yanı sıra, karbon salınımını da önemli ölçüde düşürüyor. Bu gelişme, sürdürülebilir bilişim çözümlerine doğru atılmış büyük bir adım olarak değerlendiriliyor.",
+    "publishedAt": "2025-08-05T09:00:00Z"
+  },
+  {
+    "title": "Siber Güvenlikte Yeni Şifreleme Standardı Kabul Edildi",
+    "description": "Uluslararası standart belirleyici kurumlar, kuantum bilgisayarların potansiyel tehditlerine karşı dayanıklı yeni bir şifreleme standardını onayladı. Standart, uzun vadeli veri saklama ve güvenli iletişim için yüksek koruma sağlıyor. Kriptografi uzmanları, bu teknolojinin finans, sağlık ve devlet kurumlarında hızla yaygınlaşacağını öngörüyor. Yeni sistemin, mevcut altyapılara entegre edilmesi için küresel bir geçiş planı hazırlandı.",
+    "publishedAt": "2025-08-04T16:45:00Z"
+  },
+  {
+    "title": "Bulut Depolamada Anlık Senkronizasyon Özelliği Duyuruldu",
+    "description": "Bir bulut hizmet sağlayıcısı, dosyaların cihazlar arasında anında senkronize edilmesini sağlayan yeni bir özelliğini tanıttı. Özellik, özellikle büyük dosyalar üzerinde bile gecikmesiz çalışmasıyla dikkat çekiyor. Kullanıcılar, bir cihazda yaptıkları değişiklikleri anında diğer cihazlarında görebilecek. Bu yenilik, uzaktan çalışma ve ekip işbirliği süreçlerinde ciddi verimlilik artışı sağlayacak.",
+    "publishedAt": "2025-08-03T11:20:00Z"
+  }
+]
